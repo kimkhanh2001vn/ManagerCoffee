@@ -1,0 +1,42 @@
+D:\ManagerCoffee\ManagerCoffee\bin\Debug\ManagerCoffee.exe.config
+D:\ManagerCoffee\ManagerCoffee\bin\Debug\ManagerCoffee.exe
+D:\ManagerCoffee\ManagerCoffee\bin\Debug\ManagerCoffee.pdb
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.Login.resources
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.Properties.Resources.resources
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.csproj.GenerateResource.cache
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.csproj.CoreCompileInputs.cache
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.exe
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.pdb
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.csprojAssemblyReference.cache
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.User.resources
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.FrmTableManager.resources
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.FrmAccountProfile.resources
+D:\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.FrmAdmin.resources
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\bin\Debug\ManagerCoffee.exe.config
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\bin\Debug\ManagerCoffee.exe
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\bin\Debug\ManagerCoffee.pdb
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.csprojAssemblyReference.cache
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.FrmAccountProfile.resources
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.FrmAdmin.resources
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.FrmTableManager.resources
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.Login.resources
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.Properties.Resources.resources
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.csproj.GenerateResource.cache
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.csproj.CoreCompileInputs.cache
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.exe
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.pdb
+C:\Users\NGO KIM KHANH\Desktop\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.SendMail.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\bin\Debug\ManagerCoffee.exe.config
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\bin\Debug\ManagerCoffee.exe
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\bin\Debug\ManagerCoffee.pdb
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.csproj.AssemblyReference.cache
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.SendMail.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.FrmAccountProfile.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.FrmAdmin.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.FrmTableManager.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.Login.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.Properties.Resources.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.csproj.GenerateResource.cache
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.csproj.CoreCompileInputs.cache
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.exe
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Debug\ManagerCoffee.pdb

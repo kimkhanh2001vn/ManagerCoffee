@@ -1,0 +1,13 @@
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\bin\Release\ManagerCoffee.exe.config
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\bin\Release\ManagerCoffee.exe
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\bin\Release\ManagerCoffee.pdb
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.SendMail.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.FrmAccountProfile.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.FrmAdmin.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.FrmTableManager.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.Login.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.Properties.Resources.resources
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.csproj.GenerateResource.cache
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.csproj.CoreCompileInputs.cache
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.exe
+C:\Users\NGO KIM KHANH\Desktop\StudyCoder\ManagerCoffee\ManagerCoffee\obj\Release\ManagerCoffee.pdb
